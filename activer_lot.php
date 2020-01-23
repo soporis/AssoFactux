@@ -1,6 +1,6 @@
 <?php
 /*
- *  Logiciel AssoFactux 
+ *  Logiciel AssoFactux by Thomas iaconelli 2020
  *  Fork du code php Factux le facturier libre
  *  Crée par 2003-2005 Guy Hendrickx, 2017 Thomas Ingles
  * 
